@@ -10,8 +10,7 @@ HTML, SCSS, JS, GULP
 - [x] Данные для блока "our blog" подтягиваются из локальной БазыДанных
 - [x] В блоке "our blog" на JS реализована кнопка для показа ViewMore с шагом в 3 блока с информацией. Если в Базе данных больше нет данных, то кнопка не показывается.
 
-###Посетить сайт⬇️
-[Demo](https://bonafidesjo.github.io/HomePro/)
+[Посетить сайт⬇️](https://bonafidesjo.github.io/HomePro/)
 
 
 
